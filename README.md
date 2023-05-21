@@ -1,7 +1,7 @@
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Link
 
 ## SVGs:
 
@@ -56,26 +56,26 @@ We have all the dogs, the greatest dogs.
 Guaranteed to work.
 Find the love of your dog's life or your money back.
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+"I no longer have to sniff other dogs for love. I've found the hottest Corgi on LinDog. Woof."
+Pebbles, India
 
 A Plan for Every Dog's Needs
 Simple and affordable price plans for you and your dog.
 
 Chihuahua
-$0/mo
+₹0/mo
 5 Matches Per Day
 10 Messages Per Day
 Unlimited App Usage
 
 Labrador
-$15/mo
+₹800/mo
 Unlimited Matches
 Unlimited Messages
 Unlimited App Usage
 
 Mastiff
-$29/mo
+₹1229/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
